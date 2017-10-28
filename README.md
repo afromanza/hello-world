@@ -1,2 +1,3 @@
 # hello-world
-doing the tutorial
+Just doing the tutorial...
+Is this thing on?
